@@ -1,0 +1,26 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px;
+    padding: 8px;
+    border-radius: 2px;
+    background-image: url(https://wallpapercave.com/wp/wp4617196.jpg); 
+     background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(236, 198, 102)
+    
+}
+.form-container{
+    display: block;
+   padding: 100px;
+   padding-left: 200px;
+}
+input{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
